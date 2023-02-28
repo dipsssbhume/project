@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\new project\login Table\bin\Debug\login Table.exe.config
+C:\Users\User\Desktop\new project\login Table\bin\Debug\login Table.exe
+C:\Users\User\Desktop\new project\login Table\bin\Debug\login Table.pdb
+C:\Users\User\Desktop\new project\login Table\obj\Debug\login Table.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\new project\login Table\obj\Debug\login Table.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\new project\login Table\obj\Debug\login_Table.Form1.resources
+C:\Users\User\Desktop\new project\login Table\obj\Debug\login_Table.Properties.Resources.resources
+C:\Users\User\Desktop\new project\login Table\obj\Debug\login Table.csproj.GenerateResource.cache
+C:\Users\User\Desktop\new project\login Table\obj\Debug\login Table.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\new project\login Table\obj\Debug\login Table.exe
+C:\Users\User\Desktop\new project\login Table\obj\Debug\login Table.pdb
